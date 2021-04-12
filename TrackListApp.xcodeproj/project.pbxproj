@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		A88CAD7E2624768B003C4C87 /* TrackDetailsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A88CAD7D2624768B003C4C87 /* TrackDetailsViewController.swift */; };
 		A89558A9256CDD4D0080C497 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = A89558A8256CDD4D0080C497 /* AppDelegate.swift */; };
 		A89558AB256CDD4D0080C497 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = A89558AA256CDD4D0080C497 /* SceneDelegate.swift */; };
 		A89558AD256CDD4D0080C497 /* TrackListViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A89558AC256CDD4D0080C497 /* TrackListViewController.swift */; };
@@ -17,6 +18,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		A88CAD7D2624768B003C4C87 /* TrackDetailsViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TrackDetailsViewController.swift; sourceTree = "<group>"; };
 		A89558A5256CDD4D0080C497 /* TrackListApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = TrackListApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		A89558A8256CDD4D0080C497 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		A89558AA256CDD4D0080C497 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -61,6 +63,7 @@
 				A89558A8256CDD4D0080C497 /* AppDelegate.swift */,
 				A89558AA256CDD4D0080C497 /* SceneDelegate.swift */,
 				A89558AC256CDD4D0080C497 /* TrackListViewController.swift */,
+				A88CAD7D2624768B003C4C87 /* TrackDetailsViewController.swift */,
 				A89558BE256CDE210080C497 /* Track.swift */,
 				A89558AE256CDD4D0080C497 /* Main.storyboard */,
 				A89558B1256CDD500080C497 /* Assets.xcassets */,
@@ -142,6 +145,7 @@
 			files = (
 				A89558AD256CDD4D0080C497 /* TrackListViewController.swift in Sources */,
 				A89558A9256CDD4D0080C497 /* AppDelegate.swift in Sources */,
+				A88CAD7E2624768B003C4C87 /* TrackDetailsViewController.swift in Sources */,
 				A89558AB256CDD4D0080C497 /* SceneDelegate.swift in Sources */,
 				A89558BF256CDE210080C497 /* Track.swift in Sources */,
 			);
